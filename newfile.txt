@@ -1,1 +1,1 @@
-Adding contents in newfile
+Updated contents in newfile
