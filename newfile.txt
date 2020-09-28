@@ -1,1 +1,8 @@
-Updated contents in newfile
+Add
+Function for staging changes in GIT
+
+Commit
+Function for commiting staged changes in GIT
+
+Push
+Function for pushing commited changes to remote REPO
